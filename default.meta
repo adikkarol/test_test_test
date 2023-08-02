@@ -1,0 +1,4 @@
+# PUT INTO $SPLUNK_HOME/etc/apps/<app_name>/metadata
+
+[alert_actions]
+export = system
